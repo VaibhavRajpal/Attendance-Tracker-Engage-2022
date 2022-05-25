@@ -91,6 +91,17 @@ In spite of all the smart devices that exist today in the world, one thing that 
 
 For frontend development, I have used HTML, CSS, and Javascript. For backend development, I have used Flask(Python).
 
+ - Using Trello for managing my work:
+![](static/Images_for_readme/overview.png)
+
+![](static/Images_for_readme/week1.png)
+
+![](static/Images_for_readme/week2.png)
+
+![](static/Images_for_readme/week3.png)
+
+![](static/Images_for_readme/week4.png)
+
 
 # Challenges Faced
 "Smooth seas do not make skillful sailors"
