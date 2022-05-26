@@ -81,7 +81,7 @@ OR
 python3 app.py
 ```
 
-Now your web-app is deployed at 127.0.0.1:5000
+Now your web-app is deployed at 127.0.0.1:5000 or the server mentioned in the command line to access the webpage .
 
 Just type 127.0.0.1:5000 in the address bar of your chrome and web-app would start working
 
