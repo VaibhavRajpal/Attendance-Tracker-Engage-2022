@@ -18,7 +18,6 @@ import geocoder
 latitude = 0
 longitude = 0
 
-#Attendance-Tracker
 app=Flask(__name__)
 def findEncodings(images):
     #will do encoding of the images and store it in the encodeListKnown
