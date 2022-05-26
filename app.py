@@ -238,7 +238,7 @@ def upload_file():
       encodeListKnown = findEncodings(images)
       return render_template('/login_page.html',info='Photo Uploaded')
 
-@app.route("/")
+@app.route("/", methods=['GET', 'POST'])
 def home():
     #open the home page of the website
     #change it to index.html test.html is for testing only
