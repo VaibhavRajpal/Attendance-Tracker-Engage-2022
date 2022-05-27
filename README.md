@@ -36,6 +36,8 @@ The attendance tracker attempts to bring features to the existing attendance man
 
 To use this project follow the steps below:
 
+- Python version I am using is 3.8.7
+
 Installation git on your terminal.
 ```bash
 git init
