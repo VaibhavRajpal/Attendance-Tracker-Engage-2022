@@ -79,6 +79,10 @@ Now your web-app is deployed at https://127.0.0.1:5000 or the server mentioned i
 
 Just type 127.0.0.1:5000 in the address bar of your chrome and web-app would start working
 
+- Admin Access Credentials:
+   username: "admin"
+   password: "ms-engage"
+
 
 # Tech Stack Selection
 In spite of all the smart devices that exist today in the world, one thing that is common is - web and internet browsers. I selected my application to be a web application so that a large number of users are able to use it.
