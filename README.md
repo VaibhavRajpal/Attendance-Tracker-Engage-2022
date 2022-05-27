@@ -72,11 +72,6 @@ pip install <name of missing module as told by terminal>
 ```
 Finally run the web-app by:
 ```bash
-python app.py
-```
-OR
-
-```bash
 python3 app.py
 ```
 
