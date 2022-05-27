@@ -56,10 +56,7 @@ code .
 ```
 OR
 
-Instead of code editor we can run this by Command Prompt also
-```bash
-cd <path to where folder was downloaded>
-```
+You can continue in Command Prompt also.
 
 **This web-app uses dlib library also and to download that [Visit Website](https://visualstudio.microsoft.com/downloads/) and download "Visual Studio Community Version" and during installation select "Desktop development with C++" and install it finally.** 
 
