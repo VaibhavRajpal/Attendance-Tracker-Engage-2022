@@ -48,7 +48,7 @@ git clone https://github.com/VaibhavRajpal/Attendance-Tracker-Engage-2022.git
 ```
 Change the directory.
 ```bash
-cd Attendance-Mangaement-Engage-2022
+cd Attendance-Tracker-Engage-2022
 ```
 Open the repository with your code editor. In case you do not have a code editor, it is recommended you use Visual Studio Code.
 ```bash
