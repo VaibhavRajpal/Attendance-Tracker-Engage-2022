@@ -79,6 +79,12 @@ Now your web-app is deployed at https://127.0.0.1:5000 or the server mentioned i
 
 Just type 127.0.0.1:5000 in the address bar of your chrome and web-app would start working
 
+- Admin Access Credentials:
+
+   **Username: "admin"**
+   
+   **Password: "ms-engage"**
+
 
 # Tech Stack Selection
 In spite of all the smart devices that exist today in the world, one thing that is common is - web and internet browsers. I selected my application to be a web application so that a large number of users are able to use it.
@@ -97,6 +103,9 @@ For frontend development, I have used HTML, CSS, and Javascript. For backend dev
 ![](static/Images_for_readme/week4.png)
 
 
+# Architecture
+![](static/Images_for_readme/Architecture.png)
+
 # Challenges Faced
 "Smooth seas do not make skillful sailors"
 
@@ -107,6 +116,14 @@ During the development process I faced the following challenges:
 2  .Preparing a feature list. In the beginning I wanted to build an app like no other and incorporate many features. But in the interest of time, I had to narrow down the features to the basic functionalities that are available in a video conferencing web application.
 
 All these challenges were less of challenges and more of lessons, lessons to help me have an even better development process in the future.
+
+# Future Scope
+The web application can be improved by adding the following features.
+- Adding the feature to detect eye blinking quickly ensures that an actual human is there instead of his photo if they lend their device to someone to verify the location.
+- Dashboard for each user to have a track of their attendance record.
+- Dashboard for admin to check at which time or during which professor the attendance is maximum.
+- Email notification for users when their attendance is marked.
+
 # Bug Log
 
 Following are the known bugs of the web application:
