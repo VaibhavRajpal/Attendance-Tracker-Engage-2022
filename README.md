@@ -44,7 +44,7 @@ git init
 ```
 Clone this repository.
 ```bash
-git clone https://github.com/VaibhavRajpal/Attendance-Mangaement-Engage-2022.git
+git clone https://github.com/VaibhavRajpal/Attendance-Tracker-Engage-2022.git
 ```
 Change the directory.
 ```bash
