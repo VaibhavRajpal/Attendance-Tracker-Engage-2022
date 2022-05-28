@@ -17,8 +17,10 @@ The attendance tracker attempts to bring features to the existing attendance man
 - Features Of The Application
 - Installation
 - Tech Stack Used
+- Architecture
 - Challanges Faced
-- Bug log
+- Future Scope
+- Bug Log
 - Contact
 
 # Features Of The Application
