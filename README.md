@@ -31,7 +31,7 @@ The attendance tracker attempts to bring features to the existing attendance man
    - Attendance Log
    - Option To Clear The Attendance Record by Admin
    - Attendance Marking For Arrival And Departure
-   - Automatically captures the attendance.(No need to press any button to close the web camera)
+   - Automatically captures the attendance (No need to press any button to close the web camera)
    
 # Installation
 
