@@ -89,7 +89,7 @@ Just type 127.0.0.1:5000 in the address bar of your chrome and web-app would sta
 # Tech Stack Selection
 In spite of all the smart devices that exist today in the world, one thing that is common is - web and internet browsers. I selected my application to be a web application so that a large number of users are able to use it.
 
-For frontend development, I have used HTML, CSS, and Javascript. For backend development, I have used Flask(Python).
+For frontend development, I have used HTML, CSS,Javascript and Bootstrap. For backend development, I have used Flask(Python).
 
  - Using Trello for managing my work:
 ![](static/Images_for_readme/overview.png)
